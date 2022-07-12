@@ -1,4 +1,4 @@
-import { useContext, useState, useEffect } from "preact/hooks";
+import { useContext, useState, useEffect } from "react";
 import { Api } from "../Api";
 
 export const RandomAdd = () => {
